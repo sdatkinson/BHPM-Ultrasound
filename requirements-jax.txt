@@ -1,0 +1,17 @@
+
+black
+celluloid
+flake8
+h5py
+jax==0.2.7
+jaxlib==0.1.57+cuda110
+jupyter
+matplotlib
+numpy
+pandas
+pip
+pre-commit
+pytest
+scipy
+tqdm
+wheel

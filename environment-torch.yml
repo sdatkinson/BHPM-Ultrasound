@@ -1,0 +1,17 @@
+# File: environment-torch.yml
+# Created Date: 2021-03-15
+# Author: Steven Atkinson (steven@atkinson.mn)
+
+name: ult
+channels:
+  - pytorch
+dependencies:
+  - black 
+  - matplotlib
+  - numpy
+  - pytorch
+  - pip
+  - scipy
+  - tqdm
+  - pip:
+    - celluloid
