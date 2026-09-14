@@ -1,5 +1,5 @@
 # Bayesian Hidden Physics Models
-Code accompanying Atkinson et al., [*Discovery of Physics and Characterization of Microstructure from Data with Bayesian Hidden Physics Models*](https://arxiv.org/abs/FIXME)
+Code accompanying Atkinson et al., [*Discovery of Physics and Characterization of Microstructure from Data with Bayesian Hidden Physics Models*](https://arxiv.org/abs/2103.07502)
 
 ## Getting set up
 
